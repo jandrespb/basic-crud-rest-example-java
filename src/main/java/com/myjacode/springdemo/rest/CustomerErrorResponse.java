@@ -2,8 +2,6 @@ package com.myjacode.springdemo.rest;
 
 public class CustomerErrorResponse {
 	
-	
-
 	private int status;
 	private String message;
 	private Long timeStamp;
